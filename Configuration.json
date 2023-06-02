@@ -2,7 +2,7 @@
   "deployment": {
     "files": {
       "example-resource-file1": {
-        "sourceUrl": "https://storage.googleapis.com/[MY_BUCKET_ID]/example-application/example-resource-file123467899"
+        "sourceUrl": "https://storage.googleapis.com/[MY_BUCKET_ID]/example-application/example-resource-file"
       },
       "images/example-resource-file2": {
         "sourceUrl": "https://storage.googleapis.com/[MY_BUCKET_ID]/example-application/images/example-resource-file2"
